@@ -1,6 +1,9 @@
 # Thermo-mechanical-simulation-of-a-braking-disc--using-Abaqus-
-This repository contains one of my personal school project concerning the study of the heating and the thermo mechanical sollicitations of a Formula Student car. 
+This repository contains one of my personal school project concerning the study of the heating and the thermo mechanical solicitations of a Formula Student car. 
 This work was made in collaboration with my school and the student association Formul'UT.
+
+This project uses Abaqus 2019, the Visual studio 2019 environment and the intel OneApi 2025.0 Compiler tools.
+
 
 # <p align="center">  HOW TO USE </p>
 
