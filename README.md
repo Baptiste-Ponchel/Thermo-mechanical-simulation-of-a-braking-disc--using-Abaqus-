@@ -56,7 +56,7 @@ Note: The structures of the subroutines files are very important. Do not erase t
 
 
 
-These scripts (“max_stress.py” and “max_temp.py”) were created to plot the max VM Stress and max Temperature during the lap duration.
+These scripts (“max_stress_abq.py” and “max_temp_abq.py”) were created to plot the max VM Stress and max Temperature during the lap duration.
 
 - In order to reduce the number of computations made by the python script, we will gather the max temp value every 10 increments.
 
@@ -66,7 +66,7 @@ These scripts (“max_stress.py” and “max_temp.py”) were created to plot t
 
 / FIRST STEP: /
 We need to launch the script max_temp_abq.py using the Abaqus python environment in the Windows command panel (cmd):
-"abaqus python max_temp_abq.py"
+"abaqus python max_temp_abq.py" or "abaqus python max_stress_abq.py"
 
 /// SECOND STEP: ///
 We need to launch the script max_temp_abq.py using the classic python environment in the Windows command panel (cmd):
