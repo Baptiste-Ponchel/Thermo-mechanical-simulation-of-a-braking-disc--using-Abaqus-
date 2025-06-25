@@ -2,7 +2,8 @@
 This repository contains one of my personal school project concerning the study of the heating and the thermo mechanical solicitations of a Formula Student car. 
 This work was made in collaboration with my school and the student association Formul'UT.
 
-https://github.com/user-attachments/assets/34f5dd4d-67d3-4e44-97c8-6bc6080be5b8
+
+https://github.com/user-attachments/assets/f86408e6-b578-4ee1-89f5-2978d4089fc8
 
 This project uses Abaqus 2019, the Visual studio 2019 environment and the intel OneApi 2025.0 Compiler tools.
 
