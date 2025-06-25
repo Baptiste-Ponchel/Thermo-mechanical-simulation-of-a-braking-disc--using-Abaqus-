@@ -2,7 +2,7 @@
 This repository contains one of my personal school project concerning the study of the heating and the thermo mechanical sollicitations of a Formula Student car. 
 This work was made in collaboration with my school and the student association Formul'UT.
 
-                                       !!!!  HOW TO USE   !!!!
+                                        HOW TO USE
 
 
                                     ### The abaqus cae file: ###
