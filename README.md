@@ -6,8 +6,7 @@ This work was made in collaboration with my school and the student association F
 
 https://github.com/user-attachments/assets/f86408e6-b578-4ee1-89f5-2978d4089fc8
 
-[Rapport_LaTeX_ENG_sans_utc.pdf](https://github.com/user-attachments/files/20925887/Rapport_LaTeX_ENG_sans_utc.pdf)
-
+[Study_report-Thermo-mechanical-simulation-of-a-braking-disc--using-Abaqus.pdf](https://github.com/user-attachments/files/21093291/Study_report-Thermo-mechanical-simulation-of-a-braking-disc--using-Abaqus.pdf)
 
 This project uses Abaqus 2019, the Visual studio 2019 environment and the intel OneApi 2025.0 Compiler tools.
 
@@ -23,7 +22,6 @@ The cae file is named “Disc_Analysis.cae” (with its .jnl file). You can find
 	-	“Thermo-Meca-No_expansion”
 	-	“Thermo-Meca-No_shear”
 	directly in it. If you want to use these models, make sure that you add the subroutine to the job and for the thermo-mechanical models, the HT predefined field.
-
 
   
 ## <p align="center"> Lap_data.xlsx excel file: </p>
