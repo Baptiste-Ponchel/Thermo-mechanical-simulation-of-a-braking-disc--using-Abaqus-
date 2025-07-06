@@ -6,9 +6,13 @@ This work was made in collaboration with my school and the student association F
 
 https://github.com/user-attachments/assets/f86408e6-b578-4ee1-89f5-2978d4089fc8
 
+## <p align="center"> The Report of this project : </p>
+
 [Study_report-Thermo-mechanical-simulation-of-a-braking-disc--using-Abaqus.pdf](https://github.com/user-attachments/files/21093291/Study_report-Thermo-mechanical-simulation-of-a-braking-disc--using-Abaqus.pdf)
 
-This project uses Abaqus 2019, the Visual studio 2019 environment and the intel OneApi 2025.0 Compiler tools.
+Please, note that this report wasn't reviewed yet. There may be some theorical or English language mistakes (I'm not a native of an English-speaking country).
+
+This project uses Abaqus 2019, Visual studio 2019 environment and the intel OneApi 2025.0 Compiler tools.
 
 
 # <p align="center">  HOW TO USE </p>
