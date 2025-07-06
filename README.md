@@ -1,7 +1,7 @@
 # Thermo-mechanical-simulation-of-a-braking-disc--using-Abaqus-
 
-This repository contains one of my personal school project concerning the study of the heating and the thermo mechanical solicitations of a Formula Student car. 
-This work was made in collaboration with my school and the student association Formul'UT.
+This repository contains one of my personal school project concerning the study of the heating and the thermo mechanical solicitations of a disc on a Formula Student car. 
+This work was made in collaboration with my school and the student association Formul'UT (Compiègne, France).
 
 
 https://github.com/user-attachments/assets/f86408e6-b578-4ee1-89f5-2978d4089fc8
